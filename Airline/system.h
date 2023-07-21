@@ -7,6 +7,8 @@
 #include <fstream>
 #include <map>
 
+const std::string name = "report.txt";
+
 class System {
 public:
     void add_flight (Flight*);
