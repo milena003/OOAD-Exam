@@ -1,0 +1,15 @@
+Category: Food
+Amount: $10.99
+Description: Lunch
+Datetime: 2023-07-12 12:30:00
+
+Category: Transportation
+Amount: $25.5
+Description: Taxi
+Datetime: 2023-07-13 08:45:00
+
+Category: Shopping
+Amount: $99.99
+Description: New shoes
+Datetime: 2023-07-14 15:20:00
+
