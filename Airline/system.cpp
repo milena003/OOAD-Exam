@@ -12,9 +12,6 @@ void System::book_by_origin (User* user, const std::string& origin) {
             it->book_seats();
             break;
         }
-        // else {
-        //     std::cout << "Unable to book a flight" << std::endl;
-        // }
     }
 }
 
@@ -25,9 +22,6 @@ void System::book_by_destination (User* user, const std::string& dest) {
             it->book_seats();
             break;
         }
-        // else {
-        //     std::cout << "Unable to book a flight" << std::endl;
-        // }
     }
 }
 
@@ -38,14 +32,10 @@ void System::book_by_date (User* user, const std::string& date) {
             it->book_seats();
             break;
         }
-        // else {
-        //     std::cout << "Unable to book a flight" << std::endl;
-        // }
     }
 }
 
 void System::save_report () {
-    std::string name = "report.txt";
     std::ofstream file (name);
 
     if (file.is_open()) {
