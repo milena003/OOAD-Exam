@@ -1,0 +1,4 @@
+Total count was: 130
+Mara & morok: 49
+Hideway: 79
+After purchase the count is: 128

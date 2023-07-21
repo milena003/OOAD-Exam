@@ -1,0 +1,5 @@
+Movie: Avatar
+Duration: 192 minutes
+Rating: 10/10
+Showtimes: Jul 18
+Jul 20

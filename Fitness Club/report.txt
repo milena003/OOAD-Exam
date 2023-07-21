@@ -1,0 +1,12 @@
+Lilith has standard level
+This user has: 
+Fitness: 23 sessions left
+Pool: 9 sessions left
+Massage: 2 sessions left
+
+Jane has premium level
+This user has: 
+Fitness: 11 sessions left
+Pool: 5 sessions left
+Massage: 0 sessions left
+

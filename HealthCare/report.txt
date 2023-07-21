@@ -1,0 +1,9 @@
+Patient's info: 
+Shia
+18.02.2000
+female
+shia@gmail.com
+felling weak
+getting better
+stay at hospital
+medication

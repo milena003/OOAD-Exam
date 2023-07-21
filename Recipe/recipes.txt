@@ -1,0 +1,6 @@
+Pasta
+Pasta,Tomato Sauce,Cheese,
+1. Cook pasta. 2. Heat tomato sauce. 3. Combine pasta, sauce, and cheese.
+Salad
+Lettuce,Tomatoes,Cucumber,
+1. Chop lettuce, tomatoes, and cucumber. 2. Mix them together.

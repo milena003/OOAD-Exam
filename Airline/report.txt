@@ -1,0 +1,21 @@
+Samuel booked this flight:
+FL002
+Spain
+Belgium
+2023-08-07
+99 seats are left
+
+Ashley booked this flight:
+FL001
+Italy
+England
+2023-08-01
+74 seats are left
+
+Dave booked this flight:
+FL004
+Portugal
+Belgium
+2023-08-18
+109 seats are left
+

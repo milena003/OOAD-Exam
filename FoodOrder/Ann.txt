@@ -1,0 +1,5 @@
+Customer Ann must pay: 6500
+pasta costs 2500
+cola costs 1000
+salad costs 3000
+

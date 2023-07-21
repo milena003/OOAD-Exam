@@ -1,0 +1,7 @@
+Compact Spaces: 1
+Regular Spaces: 2
+Large Spaces: 2
+Occupied Spaces: 3
+Compact Profit: $5
+Regular Profit: $7
+Large Profit: $10

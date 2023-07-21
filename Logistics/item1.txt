@@ -1,0 +1,5 @@
+Origin: A
+Destination: B
+Estimated Delivery Time: 15:24
+Status: pending
+
